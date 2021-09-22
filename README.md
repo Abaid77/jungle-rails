@@ -1,6 +1,13 @@
-# Jungle
+# Jungle Project for Light House Labs
 
-A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
+A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example. This project was built as a student at Lighthouse Labs Web Development bootcamp. This project was a test of being able to learn a new language in a short time and update an exsisting code base.
+
+## Author
+Created by:
+
+Amit Baid 
+- amit.baid@hotmail.com 
+- [Github](https://github.com/Abaid77)
 
 ## Additional Steps for Apple M1 Machines
 
@@ -28,6 +35,23 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 
 ## Dependencies
 
-* Rails 4.2 [Rails Guide](http://guides.rubyonrails.org/v4.2/)
-* PostgreSQL 9.x
-* Stripe
+- Bcrypt
+- Bootstrap
+- Byebug
+- Capybara
+- Database_Cleaner
+- Faker
+- jQuery-Rails
+- Money-Rails
+- Poltergeist
+- PostgreSQL 9.x
+- Puma
+- Rails 4.2 Rails Guide
+- RMagick
+- Sass
+- Spring
+- Stripe
+- Turbolinks
+
+
+
