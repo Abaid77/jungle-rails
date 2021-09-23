@@ -32,7 +32,22 @@ Minor: Should ideally be implemented as a question/boolean method in view helper
  - Minor: The email that was used to place the order is displayed
  - Minor: As a Visitor I can place an order (i.e. without logging in and therefore without an e-mail address). The original functionality from the inherited code (even though it is not realistic) should therefore not be suppressed.
 
+## Screenshots
 
+!["Screenshot of home page"](https://github.com/Abaid77/jungle-rails/blob/master/public/images/ss-1.png?raw=true)
+###### Home Page
+
+!["Screenshot of apparel page](https://github.com/Abaid77/jungle-rails/blob/master/public/images/ss-2.png?raw=true)
+###### Apparel Page with categories menu dropped
+
+!["Screenshot of my cart"](https://github.com/Abaid77/jungle-rails/blob/master/public/images/ss-3.png?raw=true)
+###### My Cart
+
+!["Screenshot of login page](https://github.com/Abaid77/jungle-rails/blob/master/public/images/ss-4.png?raw=true)
+###### Login Page
+
+!["Screenshot of admin page"](https://github.com/Abaid77/jungle-rails/blob/master/public/images/ss-5.png?raw=true)
+###### Admin Page
 
 
 ## Additional Steps for Apple M1 Machines
